@@ -48,7 +48,7 @@ export const Cards = () => {
         </table>
         <div className="d-flex justify-content-center">
           <button
-            className="btn border bg-success rounded-pill"
+            className="btn border bg-success rounded-pill sample"
             onClick={() => Iterate()}
           >
             Start
